@@ -1,0 +1,33 @@
+#root {
+   display: flex;
+   justify-content: center;
+}
+
+.App {
+   font-family: Arial, sans-serif;
+   padding: 2rem;
+   width: 20%;
+}
+
+h2 {
+   text-align: center;
+}
+
+input {
+   border-radius: 5px;
+   border: 1px solid #EEE;
+   padding: 1rem;
+}
+
+button {
+   outline: none;
+   border: 0;
+   padding: .6rem 1rem;
+   margin-left: 1rem;
+   background-color: blue;
+   color: white;
+   border-radius: 10px;
+   font-weight: 500;
+   font-size: 1.5rem;
+   vertical-align: middle;
+}
